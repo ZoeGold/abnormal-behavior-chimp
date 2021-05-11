@@ -1,5 +1,5 @@
 # abnormal-behavior-chimp
-Data and code for "Individual Variation in the Abnormal Behavior Repertoire of Chimpanzees" by Zoë Goldsborough, Elisabeth H.M. Sterck, Frans B.M. de Waal & Christine E. Webb (2021)
+Data and code for "Individual Variation in the Abnormal Behavior Repertoire of Chimpanzees" by Zoë Goldsborough, Elisabeth H.M. Sterck, Frans B.M. de Waal & Christine E. Webb (2021) [![DOI](https://zenodo.org/badge/366362661.svg)](https://zenodo.org/badge/latestdoi/366362661)
 
 This repository contains the R script ("Quality Abnormal Behavior.R") required to run all analyses reported in the manuscript. The files required to run this script are data from individual observations ("Focals_75_S.csv"), supplemental data from group observations ("DataGlobals_AbnS.csv"), and an overview of matrilineal kinship ("Matrilineal kinship matrix.csv")
 
